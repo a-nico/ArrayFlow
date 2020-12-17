@@ -1,4 +1,4 @@
-
+Link to arXiv paper: https://arxiv.org/pdf/2011.08461.pdf
 
 ```python
 import arrayflow as af
